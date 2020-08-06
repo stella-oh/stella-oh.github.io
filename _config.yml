@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : Stella Yoonjung OH
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : interesting in **AD-tech**, got career in **Digital Marketing/analysis**, Do believe Ad platform is the **future gold** in Digital world
+  location         : Seoul S.Korea
+  email            : funnymarketer@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: mailto:funnymarketer@gmail.com
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: https://www.linkedin.com/in/%EC%9C%A4%EC%A0%95-%EC%98%A4-b44a961aa/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: https://facebook.com/TrendLeader
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: https://github.com/stella-oh
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: https://instagram.com/yoonjungo
 
 # Site Footer
 footer:
